@@ -1,25 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-     <head>
-      </head>
-       </title>Bootstrap
-     Example</title>
-     <meta charset="utf-8">
-     <meta name="viewport"
-     content="width=device-width,
-     initial-scale=1">
-     <link rel="stylesheet"
-     href= "https://maxcdn.bootstapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-      <script
- Src="https://ajax.googleap is.com/ajax/libs/jQuery/3.5.1/jQuery.min.js"></scripts>
-      <Script
- Src=https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-          </head>
-          <body>
-  <div class="container">
-   <Welcome to my website
-    Page<hi>
-    <p> This is my first website and an assignment given to me.<p>
-    </div>
-     </body>
-     </html>
+<html>
+  <head>
+  <title>Esthers Fashion House</title>
+  </head>
+  <body>
+  <h1> welcome to my webpage</h1>
+ <p>lang="en-us">paragraph in English</p>
+  <p>this is the right place to be</p>
+ <h2>This is a sub-heading</h2>
+ <p>this webpage provides you with all the information you need to about Esthers fashion house, we urge you to go through this article and enjoy</p>
+  <h3>What is Esthers fashion house all about?</h3>
+  <p>We are one of the best fashion house in Nigeria,we have quality and foreign materials, we sew mind-blowing styles. We have good and professional hands. Your money with us is in safe hands,we hope to do business with you</h3>
+      </body>
+      </html>
